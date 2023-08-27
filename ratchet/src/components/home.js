@@ -1,6 +1,6 @@
 function Home() {
     return(
-        <div>Rip Ya A New One!</div>
+        <div className="rip">Rip Ya A New One!</div>
     )
 }
 
