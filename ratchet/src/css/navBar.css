@@ -1,16 +1,16 @@
-.nav-container {
-    border: 2px solid;
-    margin-bottom: 10px;
-    border-radius: 10px;
-    overflow: hidden;
-    height: 50px;
+#home {
+    margin-top: -10px;
+    background-image: url('/public/images/galaxy.jpg');
+    max-width: 100%;
 }
 
-.navBar {
-    color: black;
-    margin-top: 10px;
+@font-face {
+    font-family: 'RatchetAndClankFutureFont';
+    src: url(fonts/rg-future-italic.otf);
 }
 
-.nav-background {
-    background-color: purple;
+.image-text {
+    font-family: 'RatchetAndClankFutureFont', sans-serif;
+    font-size: 40px;
+    color: white;
 }

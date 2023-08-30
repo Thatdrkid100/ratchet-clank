@@ -1,6 +1,6 @@
 function Home() {
     return(
-        <div className="rip"></div>
+        <div className="container" id="home"></div>
     )
 }
 
