@@ -12,5 +12,9 @@
 .image-text {
     font-family: 'RatchetAndClankFutureFont', sans-serif;
     font-size: 40px;
-    color: white;
+    color:#D3D3D3;
+}
+
+.image-text:hover {
+    color: gold;
 }
